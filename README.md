@@ -1,4 +1,6 @@
 # AetherSX2 Builds
+god hand
+
 
 ![AetherSX2 Cover](https://raw.githubusercontent.com/AetherSX2-backup/Images/main/images.png)
 
